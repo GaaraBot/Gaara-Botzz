@@ -34,8 +34,8 @@ O Botz-Gaara é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/GaaraBot/Botzzz.git
+cd Botzzz
 bash install.sh
 npm install
 
